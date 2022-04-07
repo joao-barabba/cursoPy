@@ -22,4 +22,7 @@ print(nome)
 print(cpf.isdigit())#Este metodo verifica se a string é de apenas número e retorna True ou False
 print(cpf.isalnum())# Verifica se a string é alfa númerica
 #####
-print(frase.find('Olá'))
+print(frase.find('Olá'))#Procura na String a posição onde começa aquilo que buscamos
+#####
+#strip()#Este metodo retira espaços no começo ou final das frases
+#split(',') Ele quebra nossa string em fatias de acordo com o que queremos, neste caso a virgula foi usada como parametro
