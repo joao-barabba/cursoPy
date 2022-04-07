@@ -5,4 +5,4 @@ Curso de Python criado pela Data Viking com duração de 10 horas aprimorando me
 O controle das tarefas desse projeto será realizado no GitHub.
 
 ### Icones
-:package: Nova Funcionalidade :up: Atualização Correção de :bug: bugg :checkered_flag: Release
+:package: Nova Funcionalida"de :up: Atualização Correção de :bug: bugg :checkered_flag: Release
