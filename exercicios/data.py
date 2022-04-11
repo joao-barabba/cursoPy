@@ -21,7 +21,7 @@ print(f'Já ocorreu {Intervalo} dias \n' )
 # Ajustando o formato
 Novo_Formato = Dia_Hoje.strftime('%d/%m/%y')
 print( f'Hoje é: {Novo_Formato} \n' )
-print(type(Novo_Formato))
+
 
 # Aumentar dias ou diminuir
 print( f'Somando 30 dias, {Dia_Hoje + datetime.timedelta(days = 30)}' )
